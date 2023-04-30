@@ -17,6 +17,6 @@
 - [Twitter](https://twitter.com/Cherry91735922)
 ## What i use?
 - [HP Omen 16 2021](https://www.omen.com/us/en/laptops/2021-omen-16-amd.html)
-- [Fedora 37 Linux](https://getfedora.org/)
+- [Crystal Linux](https://getcryst.al/site)
 - [Helix (code editor)](https://github.com/helix-editor/helix)
 - [Intellij Ultimate (IDE)](https://www.jetbrains.com/idea/)
