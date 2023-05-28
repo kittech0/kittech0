@@ -1,5 +1,5 @@
 # Hello there! :wave:
-### `Welcome to my github profile! I'm software developer. I create minecraft mods, modpacks, scripts, installers and desktop apps.`
+### `Welcome to my github profile! I'm software programmer. I create minecraft mods, modpacks, scripts, installers and desktop apps.`
 ## Languages that i use and know :mortar_board:
 - Kotlin
 - Java
