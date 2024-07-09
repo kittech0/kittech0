@@ -9,7 +9,7 @@
 - Bash
 - JS/TS
 ## My projects that i work on (can be outdated sometimes) :dvd:
-- [MosaicCore](https://github.com/MosaicMC/MosaicCore) `Utility and Event base library for serverside mods`
+- [Fella](https://github.com/kittech0/fella) `Silly discord bot`
 ## Links! :fax:
 - [YouTube](https://www.youtube.com/@kittech_)
 - [Modrinth](https://modrinth.com/user/kittech)
