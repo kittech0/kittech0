@@ -5,7 +5,6 @@
 - Kotlin
 - Java
 - Go
-- Rust
 - Bash
 - JS/TS
 ## My projects that i work on (can be outdated sometimes) :dvd:
@@ -16,6 +15,6 @@
 - [CurseForge](https://www.curseforge.com/members/justafoxxo)
 ## What i use?
 - [Asus TUF A16 FA617NS](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a16-advantage-edition-2023/)
-- [NixOS](https://nixos.org)
-- [VSCode](https://code.visualstudio.com/)
+- [Ubuntu](https://ubuntu.com/)
+- [RustRover](https://www.jetbrains.com/rust/)
 - [Intellij Ultimate (IDE)](https://www.jetbrains.com/idea/)
