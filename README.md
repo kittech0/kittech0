@@ -8,13 +8,14 @@
 - Bash
 - JS/TS
 ## My projects that i work on (can be outdated sometimes) :dvd:
-- [Fella](https://github.com/kittech0/fella) `Silly discord bot`
+- none
 ## Links! :fax:
 - [YouTube](https://www.youtube.com/@kittech_)
 - [Modrinth](https://modrinth.com/user/kittech)
 - [CurseForge](https://www.curseforge.com/members/justafoxxo)
 ## What i use?
 - [Asus TUF A16 FA617NS](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a16-advantage-edition-2023/)
-- [Ubuntu](https://ubuntu.com/)
+- [Fedora](https://fedoraproject.org/)
+- [VSCode](https://code.visualstudio.com/)
 - [RustRover](https://www.jetbrains.com/rust/)
 - [Intellij Ultimate (IDE)](https://www.jetbrains.com/idea/)
